@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.atyrau.anom",
+    "sha256_cert_fingerprints": [
+      "6B:9C:83:07:C4:E9:4C:1E:92:94:68:24:39:45:FF:A9:91:25:76:FE:D4:2F:2B:DF:8D:76:9D:5A:4C:EA:44:69"
+    ]
+  }
+}]
